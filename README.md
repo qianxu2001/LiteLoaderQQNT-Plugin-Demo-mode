@@ -1,4 +1,4 @@
-# LiteLoaderQQNT-Plugin-Demo-Mode
+![QQ_1733117066820](https://github.com/user-attachments/assets/e60f3954-06ea-4afe-9189-9d4beccd2a45)# LiteLoaderQQNT-Plugin-Demo-Mode
 
 ### 本插件可对 QQ 界面上的元素进行模糊处理以便演示或截图
 
@@ -17,7 +17,8 @@ LiteLoaderQQNT Telegram 闲聊群：[Telegram](https://t.me/LiteLoaderQQNT)
 ## 截图
 
 ![开关图标](https://img.chkaja.com/c47cd304a38ae41c.png)
-![转换效果](https://img.chkaja.com/4c0f4c6c9e5c137e.png)
+![转换效果](![QQ_1733117066820](https://github.com/user-attachments/assets/4abdc242-9250-4099-9a1f-47a634306021)
+)
 ![设置页面](![QQ_1733116946265](https://github.com/user-attachments/assets/755e006d-b995-4713-96e6-d4fc1c477b74)
 
 ### TODO
