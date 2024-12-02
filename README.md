@@ -1,4 +1,4 @@
-![QQ_1733117465961](https://github.com/user-attachments/assets/0dbfc6ce-6236-47d1-8120-cb38e1e6c064)![QQ_1733117066820](https://github.com/user-attachments/assets/e60f3954-06ea-4afe-9189-9d4beccd2a45)# LiteLoaderQQNT-Plugin-Demo-Mode
+Plugin-Demo-Mode
 
 ### 本插件可对 QQ 界面上的元素进行模糊处理以便演示或截图
 
