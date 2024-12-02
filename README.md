@@ -18,7 +18,7 @@ LiteLoaderQQNT Telegram 闲聊群：[Telegram](https://t.me/LiteLoaderQQNT)
 
 ![开关图标](https://img.chkaja.com/c47cd304a38ae41c.png)
 ![转换效果](https://img.chkaja.com/4c0f4c6c9e5c137e.png)
-![设置页面](https://img.chkaja.com/e986ec4b27867f16.png)
+![设置页面](![QQ_1733116946265](https://github.com/user-attachments/assets/755e006d-b995-4713-96e6-d4fc1c477b74)
 
 ### TODO
 
